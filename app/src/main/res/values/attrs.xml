@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Placar">
+        <attr name="firstTeamScore" format="integer"/>
+        <attr name="secondTeamScore" format="integer"/>
+        <attr name="firstTeamColor" format="color"/>
+        <attr name="secondTeamColor" format="color"/>
+    </declare-styleable>
+</resources>
